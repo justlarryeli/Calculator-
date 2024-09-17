@@ -1,0 +1,54 @@
+
+.calculater{
+  width:300px;
+  height:600px;
+  border:solid 10px;
+  margin-left:15px;
+  border-radius:15px;
+  margin-top:80px;
+  border-color: grey;
+  background: #000000;
+}
+.button{
+  width:50px;
+  height:50px;
+  margin-top:50px ;
+  padding: 31px;
+  background: orange;
+  border-radius:15px;
+  font-weight: bolder;
+}
+.row{
+  margin-left:20px ;
+}
+
+#screen{
+  background: palegoldenrod;
+  pointer-events: none;
+  border:solid 5px;
+  width: 200px;
+  height:40px;
+  border-radius:15px;
+  margin-left:46px;
+   margin-top:20px ;
+}
+.buttonclear{
+  height:40px;
+  width:40px;
+ float:right;
+ margin-right:15px;
+ margin-top:15px;
+ font-weight: bolder;
+ background:goldenrod;
+ border-radius:15px;
+}
+.buttonDel{
+   height:40px;
+  width:40px;
+ float:right;
+ margin-right:15px;
+ margin-top:15px;
+ font-weight: bolder;
+ background:goldenrod;
+ border-radius:15px;
+}
